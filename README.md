@@ -7,3 +7,5 @@ A Basler camera captures photos or videos of hyperoptics on the chip that a lase
 <br />
 The GUI for this system integrates multiple advanced components and functionalities into a single, cohesive platform for the first time on a Raspberry Pi. This innovative GUI serves as the central control hub, providing users with an intuitive and user-friendly interface to manage and operate the various elements of the system.
 This integration not only simplifies the operation of complex photonics experiments but also enhances the precision and efficiency of the alignment process. By consolidating these capabilities into one accessible platform, the system represents a significant advancement in the field of hybrid photonics integration.
+<br />
+camera.py is the main class and imports the other classes.
